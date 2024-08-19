@@ -5,7 +5,7 @@ Languages:
 - C++, x86 & x86_64 ASM (NASM & MASM), MATLAB, Python.
 
 Debugging & reverse engineering tools:
-- x86dbg & Ghidra.
+- x96dbg & Ghidra.
 
 Frameworks:
 - SLD2, OpenGL, Qt, JUCE.
