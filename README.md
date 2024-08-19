@@ -2,13 +2,13 @@ Hello Everyone, my name is Miguel Castillo and I am passionate about video game 
 Also a traditional & digital artist, guitar & piano player, music enthusiast.
 
 Languages:
-- C++, MATLAB, Python.
+- C++, x86 & x86_64 ASM (NASM & MASM), MATLAB, Python.
 
 Debugging & reverse engineering tools:
 - x86dbg & Ghidra.
 
 Frameworks:
-- SLD2, OpenGL, JUCE.
+- SLD2, OpenGL, Qt, JUCE.
 
 Web Development:
 - HTML, CSS, Javascript. 
