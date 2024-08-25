@@ -4,12 +4,6 @@ Also a traditional & digital artist, guitar & piano player, music enthusiast.
 Languages:
 - C++, x86 & x86_64 ASM (NASM & MASM), MATLAB, Python.
 
-Debugging & reverse engineering tools:
-- x96dbg & Ghidra.
-
-Frameworks:
-- SLD2, OpenGL, Qt, JUCE.
-
 Web Development:
 - HTML, CSS, Javascript. 
 
