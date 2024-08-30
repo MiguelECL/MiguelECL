@@ -1,3 +1,8 @@
+/*
+    The following code is intended to run inside the LeetCode environment for the given problem, if you wish to run this program outside of LeetCode,
+    you would need to create a main() function, (as required by the C++ language specifications), aswell as include iostream, and vector.
+*/
+
 class Solution {
 public:
     vector<vector<int>> findMatrix(vector<int>& nums) {
